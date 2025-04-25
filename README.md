@@ -69,4 +69,4 @@ O projeto utiliza Tailwind CSS para estilização, proporcionando:
 
 - Maria Eduarda Ferrés - RM 560418
 - Julia Sayuri Yokoo - RM 560541
-- Gabriela Queiroga - RM 560035
+- Gabriela Queiroga Cocuzza da Silva - RM 560035
