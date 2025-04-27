@@ -1,4 +1,4 @@
-# CP5 - Desenvolvimento Web
+# CP5
 
 Este projeto é uma aplicação React que demonstra a integração com a API RandomUser para exibir perfis de usuários aleatórios.
 
